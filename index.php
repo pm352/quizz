@@ -81,48 +81,6 @@ $quizzList = array(
         </div>
     </div>
 	<?php endforeach; ?>
-
-    <h2>J21 - H&eacute;bergement &amp; Domaines</h2>
-    <ul>
-        <li><a href="https://docs.google.com/forms/d/10RU2bzJuvr61ziu4yME_g5Jpa91yii6GGk0DovR4n5g/viewform"
-               target="_blank">DNS</a></li>
-    </ul>
-    <h2>J22 - SGBD</h2>
-    <ul>
-        <li><a href="https://docs.google.com/forms/d/1KjPvWPFjJ-FQg3iOkKHbJsU7JZy-c5opFtxwn-Cz4wE/viewform"
-               target="_blank">SGBD, MySQL & phpMyAdmin</a></li>
-    </ul>
-    <h2>J23 - SQL & PDO</h2>
-    <ul>
-        <li><a href="https://docs.google.com/forms/d/1CvDJrEBbQoYU6pwVI0l1adAEtDTLfOT2-wUfrc2CHok/viewform"
-               target="_blank">SQL</a></li>
-        <li><a href="https://docs.google.com/forms/d/1RxH5carnxAx7oBytfLBRVnzMZyi09H4JZ-cyJjDEbkw/viewform"
-               target="_blank">PDO</a></li>
-    </ul>
-    <h2>J24 - PDO jour 2</h2>
-    <ul>
-        <li><a href="https://docs.google.com/forms/d/18oyG4wXHCU0YGvdvGGccm9pPrILEcASA3dU8q9ICkJM/viewform"
-               target="_blank">PDO et requêtes pr&eacute;par&eacute;es</a></li>
-    </ul>
-    <h2>J25 - Linux & H&eacute;bergment Pro</h2>
-    <ul>
-        <li><a href="https://docs.google.com/forms/d/1nVL6w1XeXz4dCDx_ilX4stGYG-XAHy1rNAUC1EgvXNU/viewform"
-               target="_blank">Linux & H&eacute;bergment Pro</a></li>
-        <li><a href="https://docs.google.com/forms/d/1N4H_CSyNXVMeTlBX1VJ2OCSV_VzukabKaJwqXuGTNaI/viewform"
-               target="_blank">Commandes Linux</a></li>
-    </ul>
-    <h2>J35-36 - Git & GitHub</h2>
-    <ul>
-        <li><a href="https://docs.google.com/forms/d/1UZCkIGUFU9zoTXXDUVTxrAG_Ho0k3vr1ZqYUUGWUJ9g/viewform"
-               target="_blank">Git & GitHub</a></li>
-    </ul>
-    <h2>J37-38 - Authentification, Autorisations &amp; Sessions</h2>
-    <ul>
-        <li><a href="https://docs.google.com/forms/d/1gOCmKDX3mW4LPUdtG0-cyyA3GIkY4Ow3MCwjI4s_c6g/viewform"
-               target="_blank">Authentification</a></li>
-        <li><a href="https://docs.google.com/forms/d/104QuWINOplCDsAge1Ni5udys6Vn5ruPz68pldpxhU_M/viewform"
-               target="_blank">Authentification 2</a></li>
-    </ul>
 </div>
 </body>
 </html>
