@@ -41,6 +41,9 @@ $quizzList = array(
 		'Authentification' => 'https://docs.google.com/forms/d/1gOCmKDX3mW4LPUdtG0-cyyA3GIkY4Ow3MCwjI4s_c6g/viewform',
 		'Authentification 2' => 'https://docs.google.com/forms/d/104QuWINOplCDsAge1Ni5udys6Vn5ruPz68pldpxhU_M/viewform',
 	),
+	'J49 - Objets' => array(
+		'Objets' => 'https://docs.google.com/forms/d/1-2giTZvrBZGn_0GMOzjkv0MZ_k3RKj5v0HexQXNDGHg/viewform',
+	),
 	/*'' => array(
 		'' => '',
 	),*/
