@@ -45,15 +45,16 @@ $quizzList = array(
 		'Objets' => 'https://docs.google.com/forms/d/1-2giTZvrBZGn_0GMOzjkv0MZ_k3RKj5v0HexQXNDGHg/viewform',
 	),
 	'J50 - POO jour 1' => array(
-		'Héritage' => 'https://docs.google.com/forms/d/1vqqRfxuh9EILXgk1dF6JZOFtWDwnxAcgWhsRTp6v1hw/viewform',
-		//'Visibilité & Surcharge' => 'https://docs.google.com/forms/d/1u8__oGUSbCKP4ybupAWnBso8_DvERqHV7p7HYRDvt08/viewform',
-		//'Espaces de noms' => 'https://docs.google.com/forms/d/1L4kl81MT2_7-NzIs008TUQKaU80qkoaCnhgyt9dq4uY/viewform',
+		'Héritage (fait)' => 'https://docs.google.com/forms/d/1vqqRfxuh9EILXgk1dF6JZOFtWDwnxAcgWhsRTp6v1hw/viewform',
+		'Visibilité & Surcharge' => 'https://docs.google.com/forms/d/1u8__oGUSbCKP4ybupAWnBso8_DvERqHV7p7HYRDvt08/viewform',
+		'Espaces de noms' => 'https://docs.google.com/forms/d/1L4kl81MT2_7-NzIs008TUQKaU80qkoaCnhgyt9dq4uY/viewform',
 	),
-	/*'J51 - POO jour 2' => array(
+	'J51 - POO jour 2' => array(
 		'Interfaces' => 'https://docs.google.com/forms/d/19foGBpJ9K_AiTnrkYa5XB8YDfKoVDf4Kx6fhXTzGD_4/viewform',
 		'Classes abstraites' => 'https://docs.google.com/forms/d/1ezK_oNSCoV2CWqSGPPQLjgt1rBtqsURkPFyVczpt7rg/viewform',
 		'Propriétés & Méthodes statiques' => 'https://docs.google.com/forms/d/1blqHPmlzof0aA3C8h9p0kgNw-hUGQBxdH4Nn7xccRd0/viewform',
-	),'' => array(
+	),
+	/*'' => array(
 		'' => '',
 	),*/
 );
