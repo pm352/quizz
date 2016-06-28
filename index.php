@@ -54,6 +54,9 @@ $quizzList = array(
 		'Classes abstraites' => 'https://docs.google.com/forms/d/1ezK_oNSCoV2CWqSGPPQLjgt1rBtqsURkPFyVczpt7rg/viewform',
 		'Propriétés & Méthodes statiques' => 'https://docs.google.com/forms/d/1blqHPmlzof0aA3C8h9p0kgNw-hUGQBxdH4Nn7xccRd0/viewform',
 	),
+	'J57 - MVC' => array(
+		'Terminologie & Avantages' => 'https://docs.google.com/forms/d/1itZC_wfhNTb0bExs7Jyct0rxLBD9F43lkiCRwHAzaDc/viewform',
+	),*/
 	/*'' => array(
 		'' => '',
 	),*/
