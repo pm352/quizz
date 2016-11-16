@@ -80,6 +80,7 @@ $quizzList = array(
     <!-- Main jumbotron for a primary marketing message or call to action -->
     <div class="jumbotron">
         <h1>Quizzs de cours WebForce3</h1>
+        <h2>Les supers quizzs de Ben</h2>
 
         <p>Voici une suite de petits quizzs vous permettant de consolider les notions apprises lors des différentes
             journées de cours.</p>
