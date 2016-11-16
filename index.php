@@ -79,8 +79,7 @@ $quizzList = array(
     <div class="jumbotron">
         <h1>Quizzs de cours WebForce3</h1>
 
-        <p>Voici une suite de petits quizzs vous permettant de consolider les notions apprises lors des différentes
-            journées de cours.</p>
+        <p>Voici une suite de petits quizzs qui va vous permettre de consolider les notions apprises lors des différentes journées de cours.</p>
     </div>
 	<?php foreach ($quizzList as $dayTitle=>$dayList) :?>
     <div class="panel panel-primary">
